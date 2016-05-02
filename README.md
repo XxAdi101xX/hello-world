@@ -1,5 +1,4 @@
 # hello-world
-yay
 
-
-hey, i don't know what i'm doing but hopefully this will help me get better at coding and maybe even get me a job. Pls and thanks code god (:
+I've just started to seriously code and I'll begin posting them to Github! The date for this March 11, 2016. Maybe I'll look back 
+one day to see how far I came@
